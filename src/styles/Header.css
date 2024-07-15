@@ -1,0 +1,24 @@
+.avatar {
+    width: 34px;
+    height: 34px;
+}
+.avatar.online::after {
+    background-color: #0cb785;
+}
+.avatar.online::after, .avatar.offline::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 5px;
+    width: 6px;
+    height: 6px;
+    border-radius: 100%;
+    box-shadow: 0 0 0 1.5px #fbfcfe;
+}
+.avatar-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: inherit;
+    display: block;
+}

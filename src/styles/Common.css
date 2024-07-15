@@ -1,0 +1,84 @@
+body {
+    color: #1d2630;;
+}
+.btn.btn-purple:hover {
+    background-color: #445eb8;
+}
+
+.btn-purple {
+    background-color: #506fd9;
+    width: 110px;
+}
+.badge-mid-success {
+    background: #e8fdf8 !important;
+    color: #1de9b6 !important;
+}
+.badge-start-success {
+    background: #e6f6fe !important;
+    color: #04a9f5 !important;
+}
+.progress, .progress-stacked {
+    --bs-progress-height: 0.6rem;
+}
+.progress-bar {
+    background-color: #506fd9;
+}
+.info-boxes {
+    box-shadow: 0 .15rem 0 rgb(33 32 32 / 2%);
+    border: 0;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 4px;
+}
+.header-order {
+    padding-bottom: 25px;
+}
+svg {
+    width: 20px;
+    height: 20px;
+}
+.OrderTable table th {
+    color: rgba(33, 37, 41, 0.75);
+    font-size: 14px;
+}
+.text-purple {
+    color: #BB6BD9;
+}
+.text-red {
+    color: #FF5E5E !important;
+}
+.badge-in-progress {
+    background-color: rgba(187, 107, 217, 0.1) !important;
+    color: #BB6BD9 !important;
+    font-weight: 600;
+}
+.badge-in-pending {
+    background-color: #ffdede !important;
+    color: #FF5E5E !important;
+    font-weight: 600;
+}
+.badge-success {
+    background-color: #daf5e6 !important;
+    color: #3AC977 !important;
+}
+.box-hover:hover {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+.box-hover {
+    border: 1px solid #eeeeee !important;
+}
+.border-top, .border-bottom, .border-start, .border-end, .border {
+    border-color: #eeeeee !important;
+}
+.card {
+    --bs-card-border-color: #eeeeee !important;
+}
+.badge {
+    width: 70px;
+    height: 25px;
+    line-height: 18px;
+}
+table td, table th {
+    font-size: 14px;
+    white-space: nowrap;
+}

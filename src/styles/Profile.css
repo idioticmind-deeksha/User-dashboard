@@ -1,0 +1,79 @@
+.social-data div span{
+    font-size: 0.8rem !important;
+    line-height: 1.5;
+    color: #888;
+}
+.social-data div svg{
+    width: 18px;
+    height: 18px;
+    color: #888;
+}
+.profile-info .icons svg {
+    color: #0d99ff;
+    width: 26px;
+    height: 26px;
+}
+
+.profile-info .icons {
+    background: rgba(13, 153, 255, 0.1);
+    border-radius: 3px;
+}
+.profile-info .box {
+    border: 1px dashed  #eeeeee !important;
+}
+.box p {
+    font-size: 12px;
+    color: #888;
+    font-weight: 400;
+}
+.soical-link {
+    padding: 3px 6px;
+    background: #F5F5F5;
+    border-color: #F5F5F5;
+    margin-top: 18px;
+}
+
+.soical-link svg {
+    color: #888888;
+    width: 14px;
+    height: 14px;
+}
+.post-user{
+    margin-left: 10px;
+}
+.post-user p {
+    font-size: 13px;
+    padding: 0;
+    color: #888;
+}
+.post-user h4 {
+    font-size: 14px;
+    margin: 0 !important;
+}
+.user-post svg {
+    color: #888;
+}
+.user-content {
+    font-size: 14px;
+    color: #888;
+}
+.post-review svg, .post-review p {
+    font-size: 14px;
+    color: #888;
+    width: 14px;
+    height: 14px;
+    line-height: 14px;
+}
+.project-contribution .user-image {
+    border: 1px solid #eee;
+    padding: 10px;
+    border-radius: 4px;
+}
+.count-box {
+    padding: 4px 8px;
+    background: #eee;
+    font-size: 12px;
+    line-height: 14px;
+    color: #888;
+    border-radius: 4px;
+}

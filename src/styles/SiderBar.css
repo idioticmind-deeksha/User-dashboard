@@ -1,0 +1,30 @@
+.siderbar-header {
+    padding: 0.98rem 1rem;
+}
+.siderbar-header svg {
+width: 25px;
+height: 25px;
+color: #506fd9;
+}
+.siderbar-header span {
+    color: #506fd9;
+    font-weight: 600;
+ }
+ .sider-menu svg {
+    width: 18px;
+    height: 18px;
+    color: #41505f;
+ }
+
+ .sider-menu a {
+    color: #41505f;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+ }
+ .sider-menu a:hover,  .sider-menu a:hover svg  {
+   color: #212830;
+ }
+ .sider-menu a.active,  .sider-menu a.active svg  {
+    color:  #506fd9;
+  }

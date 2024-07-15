@@ -1,0 +1,52 @@
+.projectinfo  svg{
+  width: 40px;
+  height: 40px;
+}
+.Completed-box svg, .Completed-box h4 {
+    color: #3AC977;
+}
+.projectinfo h4 {
+font-size: 28px;
+font-weight: 600;
+}
+.projectinfo p {
+font-size: 14px;
+font-weight: 500;
+color: #2C2C2C;
+}
+.icons {
+    padding: 10px;
+    border-radius: 50%;
+}
+.Completed-box .icons {
+    background: rgba(218, 245, 230, 0.5);
+}
+.Progress-box .icons {
+    background: rgba(13, 153, 255, 0.1);
+}
+.Started-box .icons {
+    background: rgba(187, 107, 217, 0.1);
+}
+.Ended-box .icons {
+    background: rgba(255, 222, 222, 0.4);
+}
+.Progress-box svg, .Progress-box  h4 {
+    color:#0D99FF;
+}
+.Started-box svg, .Started-box h4 {
+    color: #BB6BD9;
+}
+.Ended-box svg, .Ended-box h4 {
+    color: #ff5e5e;
+}
+.taskSummery .card .desc {
+    font-size: 14px;
+}
+
+.date p span {
+    font-size: 12px;
+}
+
+.date p {
+    font-size: 14px;
+}

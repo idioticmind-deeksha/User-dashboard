@@ -1,0 +1,21 @@
+.salesContainer .card .card-title{
+    font-size:  1rem;
+    color: #1d2630 ;
+}
+.card-subtitle h5 {
+    font-size: 1.5rem;
+    color: #1d2630;
+    font-weight: 400;
+}
+.card-text p {
+    font-size: 0.75rem;
+    color: rgba(33, 37, 41, 0.75);
+    font-weight: 500;
+    padding: 12px 0;
+}
+.salesContainer .card {
+    box-shadow: 0 .15rem 0 rgb(33 32 32 / 2%);
+    border: 0;
+    background-position: top right;
+    background-repeat: no-repeat;
+}
