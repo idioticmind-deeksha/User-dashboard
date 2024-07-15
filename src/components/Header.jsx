@@ -7,7 +7,7 @@ const Header = () => {
     <>
         <Navbar bg="white" data-bs-theme="light" sticky="top" className='border-bottom'>
           <Container className='px-0 mx-3'>
-            <Navbar.Brand href="#home"><RiMenu2Line /></Navbar.Brand>
+            <Navbar.Brand href="/"><RiMenu2Line /></Navbar.Brand>
             <Nav className="ms-auto">
               <div className="avatar online position-relative rounded-circle" width="34px" height="34px">
                 <img className="avatar-img" src={AvatarImg} alt='avatar-img'/>
